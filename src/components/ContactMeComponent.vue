@@ -6,7 +6,7 @@ import "notyf/notyf.min.css";
 
 const notyf = new Notyf();
 
-const WEB3FORMS_ACCESS_KEY = "69fc1022-7b4a-4bbb-996d-e6b7a0c6e6b5";
+const WEB3FORMS_ACCESS_KEY = "f079cc3d-a4fc-431b-8e2a-371c1a8ba6c0";
 
 const subject = "New message from Portfolio Contact Form";
 
@@ -57,7 +57,7 @@ const submitForm = async () => {
   }
 };
 
-const SITE_KEY = "6Lc_xREsAAAAAD8Y_AMJPjkMfEOXec5ONipUFRgs";
+const SITE_KEY = "6LcxmBYsAAAAAMJVKNJ9n0PLGVNVpG3-MQF0lyrJ";
 const recaptchaContainer = ref(null);
 const recaptchaWidgetId = ref(null);
 const recaptchaToken = ref("");
