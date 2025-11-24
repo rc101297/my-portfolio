@@ -120,7 +120,7 @@ onMounted(() => {
       <!-- Contact Form -->
       <div class="col-12 col-lg-4">
         <div class="mx-auto" id="form-col">
-          <form class="p-3 rounded">
+          <form class="p-3 rounded" @submit.prevent="submitForm">
             <div class="form-group">
               <label for="name">Name</label>
               <input
