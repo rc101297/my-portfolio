@@ -1,5 +1,5 @@
 <script setup>
-import Profile from "../assets/images/profile.jpg";
+import Profile from "/images/profile.jpg";
 </script>
 
 <template>
@@ -30,9 +30,9 @@ import Profile from "../assets/images/profile.jpg";
           challenges to deliver impactful digital solutions.
         </p>
         <div class="justify-content-center">
-          <a href="../assets/files/Resume.pdf" download="Resume.pdf">
+          <a href="/files/Resume.pdf" download="Resume.pdf">
             <img
-              src="../assets/images/icons/download.png"
+              src="/images/icons/download.png"
               class="img-fluid"
               alt="Download Resume"
             />

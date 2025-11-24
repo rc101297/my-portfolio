@@ -156,7 +156,7 @@ onMounted(() => {
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="../assets/images/icons/linkedin.png"
+                      src="/images/icons/linkedin.png"
                       class="img-fluid"
                       alt="linkedin logo"
                     />
@@ -169,7 +169,7 @@ onMounted(() => {
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="../assets/images/icons/gitlab.svg"
+                      src="/images/icons/gitlab.svg"
                       class="img-fluid"
                       alt="gitlab logo"
                     />
@@ -182,7 +182,7 @@ onMounted(() => {
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="../assets/images/icons/github.png"
+                      src="/images/icons/github.png"
                       class="img-fluid"
                       alt="github logo"
                     />
